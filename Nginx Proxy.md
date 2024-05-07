@@ -1,11 +1,5 @@
 ### Demo Example PATH: 
 
-For Macos:
-https://medium.com/@giorgos.dyrrahitis/configuring-an-nginx-tcp-proxy-for-my-rabbitmq-cluster-under-10-minutes-a0731ec6bfaf
-
-For Linux: 
-https://www.digitalocean.com/community/tutorials/how-to-configure-nginx-as-a-reverse-proxy-on-ubuntu-22-04
-
 ### Install NGINX Macos
 ```bash
 brew install nginx
